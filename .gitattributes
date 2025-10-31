@@ -1,0 +1,33 @@
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.h text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.cmake text eol=lf
+
+*.sh text eol=lf
+
+*.bat text eol=crlf
+
+*.exe binary
+*.o binary
+*.a binary
+*.dll binary
+*.so binary
+*.tar binary
+*.gz binary
+*.zip binary
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
+
+build/* linguist-generated
+*.exe linguist-generated
+*.o linguist-generated
