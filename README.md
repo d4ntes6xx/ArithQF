@@ -57,14 +57,6 @@
 <pre style="background: #151212ff; padding: 15px 60px 15px 15px; border-radius: 0 0 5px 5px; overflow-x: auto; font-family: 'Fira Code', monospace; font-size: 15px; line-height: 1.5; color: #d4d4d4; margin: 0; letter-spacing: 0.5px; white-space: pre-wrap; word-wrap: break-word;">
 <code id="codeBlock">g++ launcher.cpp main.cpp utils/errcheck/inputhandler.cpp utils/infacdisp/consolectl.cpp -I. -o Launcher.exe</code>
 </pre>
-<button style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); 
-background: #02448aff; color: white; border: none; 
-padding: 6px 14px; border-radius: 12px 5px 12px 5px; 
-cursor: pointer; font-family: 'Segoe UI', Tahoma, sans-serif; 
-box-shadow: 0 2px 5px rgba(0,0,0,0.2); font-size: 13px;" 
-onclick="navigator.clipboard.writeText(document.getElementById('codeBlock').textContent)" 
-onmouseover="this.style.transform='translateY(-50%) scale(1.05)'; this.style.background='#0366b3'; this.style.boxShadow='0 0 12px rgba(3, 102, 179, 0.8)'" 
-onmouseout="this.style.transform='translateY(-50%) scale(1)'; this.style.background='#02448aff'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.2)'">Copy</button>
 </div>
 </div>
 
